@@ -1,0 +1,2 @@
+[16-Feb-2023 00:06:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/gearenav/test.code1.ticchien.dev/log.php on line 24
+[16-Feb-2023 00:01:58 UTC] PHP Warning:  file_get_contents(admin/kakkakakajjjjjjjjkaaaaasgjjjj.txt): Failed to open stream: No such file or directory in /home/txvip/Clip-hot24h.click/log.php on line 25

